@@ -1,0 +1,14 @@
+{
+    "ads": [
+        {
+            "gameName": "Game Name 1",
+            "gameTextureURL": "Texture URL",
+            "urlLink": "WebPage Link"
+        },
+        {
+            "gameName": "Game Name 2",
+            "gameTextureURL": "Texture URL",
+            "urlLink": "WebPage Link"
+        }
+    ]
+}
